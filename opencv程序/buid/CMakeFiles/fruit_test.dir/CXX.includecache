@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/fruit.h
+opencv2/opencv.hpp
+-
+iostream
+-
+cmath
+-
+
+/home/lizhou/桌面/match_fruit_project/fruit.cpp
+fruit.h
+/home/lizhou/桌面/match_fruit_project/fruit.h
+
+/home/lizhou/桌面/match_fruit_project/project_main.cpp
+opencv2/opencv.hpp
+-
+iostream
+-
+cmath
+-
+sys/types.h
+-
+signal.h
+-
+stdlib.h
+-
+fruit.h
+/home/lizhou/桌面/match_fruit_project/fruit.h
+string.h
+-
+fcntl.h
+-
+sys/stat.h
+-
+unistd.h
+-
+errno.h
+-
+

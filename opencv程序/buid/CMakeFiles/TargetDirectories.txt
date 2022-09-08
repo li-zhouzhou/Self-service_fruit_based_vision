@@ -1,0 +1,3 @@
+/home/lizhou/桌面/match_fruit_project/buid/CMakeFiles/rebuild_cache.dir
+/home/lizhou/桌面/match_fruit_project/buid/CMakeFiles/fruit_test.dir
+/home/lizhou/桌面/match_fruit_project/buid/CMakeFiles/edit_cache.dir
