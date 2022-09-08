@@ -8,3 +8,7 @@
 通过网页端显示水果种类、质量、单价，以及水果的照片，
 网页会有确认付款的按键，按下出现付款码，客户完成付款后，最终实现自动化购买。
 （#注：项目中后端代码未上传）
+
+对应代码的说明论文见我写的博客：https://blog.csdn.net/qq_41834692/article/details/126029722
+最终作品视频展示链接：【自动水果贩卖机（基于图像处理的水果自助售卖系统）】 
+https://www.bilibili.com/video/BV14g411971P?share_source=copy_web&vd_source=794cd80cbe951e0b4ffb4c56d65c0fe5
